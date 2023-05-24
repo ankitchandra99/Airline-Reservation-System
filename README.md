@@ -1,7 +1,8 @@
 # Airline-Reservation-System
 The goal of this project on Airline Management System is to automate the airline registration procedure. The system includes information such as passenger information, flight information, and a list of all passengers, as well as the ability to store and retrieve data linked to the airline business and conduct air travel transactions.
 
-The Airline Reservation System Project in Java was created in Java Programming Language using NetBeans IDE and MySQL Database as the System’s Back-end.
+The Airline Reservation System Project in Java was created in Java Programming Language using NetBeans IDE and MySQL Database as the System’s Back-end
+A driver named JDBC (Java Database Connectivity)is an application programming interface (API) for the Java programming language, which is used to connect Java and MySQL
 
 The system allows us to add records when a passenger reserves a ticket. It also allows to delete and update the records based on passenger’s requirements. For data storage and retrieval we use the MySQL database. It enables us to add any number of records in our database from the frontend which is Java core. Any changes made in the frontend will be reflected at the backend.
 
